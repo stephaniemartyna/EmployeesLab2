@@ -1,0 +1,8 @@
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\bin\Debug\LAB2 Employees.exe.config
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\bin\Debug\LAB2 Employees.exe
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\bin\Debug\LAB2 Employees.pdb
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\obj\Debug\LAB2 Employees.csproj.AssemblyReference.cache
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\obj\Debug\LAB2 Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\obj\Debug\LAB2 Employees.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\obj\Debug\LAB2 Employees.exe
+C:\Users\Stephanie\OneDrive - Southern Alberta Institute of Technology\SAIT\Object-Oriented Programming\LAB 2 Employees\LAB2 Employees\LAB2 Employees\obj\Debug\LAB2 Employees.pdb
